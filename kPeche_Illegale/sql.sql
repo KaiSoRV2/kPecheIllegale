@@ -5,9 +5,9 @@ INSERT INTO `items` (name , label , `limit`, rare, can_remove) VALUES
     ('saumon', 'Saumon', 100, 0, 1),
     ('thon', 'Thon', 100, 0, 1),
     ('truite', 'Truite', 100, 0, 1),
-    ('morue', 'Morue', 100, 0, 1)
-    ('tortue', 'Tortue', 100, 0,1)
-    ('appats_tortue', 'Appâts à Tortue', 100, 0, 1),
+    ('morue', 'Morue', 100, 0, 1),
+    ('tortue', 'Tortue', 100, 0,1),
+    ('appats_tortue', 'Appâts à Tortue', 100, 0, 1)
 ;
 
 
@@ -21,7 +21,7 @@ INSERT INTO `items` (name , label , `limit`, rare, can_remove) VALUES
     ('thon', 'Thon', 1, 0, 1),
     ('truite', 'Truite', 1, 0, 1),
     ('morue', 'Morue', 1, 0, 1),
-    ('tortue', 'Tortue', 1, 0,1)
+    ('tortue', 'Tortue', 1, 0,1),
     ('appats_tortue', 'Appâts à Tortue', 1, 0, 1)
 
 ; */
